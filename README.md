@@ -27,7 +27,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/f3dc65b8-8815-444f-b759-6320ea3baa43)
+
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/0b58f540-6fcc-41d9-a270-95109ee3fd99)
+
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/c9ca4516-3cba-4b3f-9158-e82794ae885f)
 </p>
 <p>
@@ -38,6 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/f6d61fb1-f50f-455a-9f4b-12c96913af25)
+
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/b88714d2-db33-4ec5-a7c2-d4e498ff8c02)
 </p>
 <p>
@@ -48,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/8bbefddc-bde5-466a-8606-2660fae3afe7)
+
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/c9ca4516-3cba-4b3f-9158-e82794ae885f)
 </p>
 <p>
