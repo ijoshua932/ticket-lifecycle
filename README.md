@@ -57,6 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/26db096c-785b-4dd0-8869-ba4038a6a837)
 
 </p>
 <p>
