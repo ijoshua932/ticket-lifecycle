@@ -81,6 +81,7 @@ To create a ticket for a password reset in osTicket, follow these steps:
 
 ![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/26db096c-785b-4dd0-8869-ba4038a6a837)
 
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/9bed56e2-52e4-440e-a2cb-05639696db0d)
 </p>
 <p>
 In the osTicket admin dashboard, the admin can assign tickets to agents in a few steps. Firstly, the admin needs to access the "Tickets" section in the dashboard. Then, they can select an individual ticket or multiple tickets by using the provided checkboxes. After selecting the desired ticket(s), the admin can click on the "Assign" button or a similar option available in the interface. This action will open a dropdown menu where the admin can choose the agent to whom they want to assign the ticket(s). Finally, the admin can confirm the assignment by clicking on the appropriate button or option, and the ticket(s) will be assigned to the selected agent.
@@ -89,18 +90,21 @@ In the osTicket admin dashboard, the admin can assign tickets to agents in a few
 
 <p>
 
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/90f4c880-aa02-468b-bf0c-4955a3713688)
 
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/4797d1af-e9fd-4576-93fd-f993a753dec0)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A ticket response typically consists of a message from a support agent or staff member addressing the issue raised by the ticket submitter. The response includes relevant information, suggestions, or solutions to help resolve the problem. It may also include additional requests for clarification or further details. The ticket response aims to provide timely and helpful assistance to the submitter, facilitating effective communication and issue resolution.
 </p>
 <br />
 
 <p>
 
-
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/f4f02d1a-e825-48c3-aa39-1fb890127270)
+![image](https://github.com/ijoshua932/ticket-lifecycle/assets/139269375/500c8925-63bf-4e2f-a98b-bef78e0e89ff)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When the ticket is marked as resolved, the response typically signifies that the reported issue has been successfully addressed. The response includes a confirmation of the resolution, outlining the steps taken or actions performed to resolve the problem. It may also provide any necessary instructions or guidance for the ticket submitter to verify the resolution or prevent similar issues in the future. The resolved ticket response aims to communicate the successful resolution to the submitter, ensuring their satisfaction and closing the support case.
 </p>
 <br />
